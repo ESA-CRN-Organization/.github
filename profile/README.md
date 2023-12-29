@@ -5,7 +5,7 @@ Welcome to the official GitHub for the ESA Collaborative Research Network (CRN).
   <img src="https://brand.esa.int/files/2022/10/ESA_Patch_2022-1024x1024.png" alt="ESA Logo" width="350" height="350">
 </p>
 
-**Here are some ideas to get you started:**
+<!--**Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
