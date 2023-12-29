@@ -1,6 +1,6 @@
 ## Welcome to the official GitHub for the ESA Collaborative Research Network
 
-![ESA Logo](https://brand.esa.int/files/2022/10/ESA_Patch_2022-1024x1024.png)
+![ESA Logo](https://brand.esa.int/files/2022/10/ESA_Patch_2022-1024x1024.png=100x100)
 
 
 <!--
